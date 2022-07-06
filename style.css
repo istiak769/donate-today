@@ -1,0 +1,207 @@
+body
+{
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+
+}
+
+/* Section 1 Begins from here */
+.banner{
+    
+    height: 669px;
+    background-image: linear-gradient(rgba(4,9,30,0.5),rgba(4,9,30,0.7)), url(images/donation13.jpg);
+    background-size: cover;
+    text-align: center;
+    margin-bottom: 100px;
+    padding-bottom: 50px;
+    
+
+}
+
+.banner-top{ 
+    width: 60%;  
+    margin: auto;
+    padding: 100px 0 0 0;
+    }
+
+.top-header{
+    font-weight: 1000;
+    font-size: 70px;
+    color: #FFFFFF;
+    margin-bottom: 15px;
+}
+
+.top-paragraph
+{    
+    font-weight: 400;
+    font-size: 22px;
+    color: #FFFFFF;
+    margin-bottom: 50px;
+    
+}
+.link-donation{
+    color: white;
+    text-decoration: none;
+    background-image: linear-gradient(45deg, rgb(218, 58, 14), rgb(242, 81, 0));
+    padding: 15px 12px;
+    font-weight: 600;
+    font-size: 25px;
+    border-radius: 5px;
+
+}
+
+/* Section 2 Begins from here */
+.donate-today{
+    text-align: center;
+    margin: 40px 0;
+    padding-top: 30px;
+    
+    
+}
+.donate-header{
+    font-size: 60px;
+    font-weight: 700;
+    margin-bottom: 15px;
+}
+
+.donate-paragraph{
+    font-size: 20px;
+    color: rgb(97, 97, 97);
+    width: 60%;
+    margin: 0 auto;
+    padding:0 0 100px 0 ;
+    
+}
+
+.donation-amount{
+    display: flex;
+    text-align: center;
+    width: 50%;
+    margin: 0 auto;
+}
+.donation-box{
+    padding: 25px 30px;
+    background-color: rgb(252, 252, 252);
+    margin: 0 auto;
+    border-radius: 5px;
+
+}
+#tk200{
+    color: rgb(215, 37, 67);
+    border: 2px solid red;
+    background-color: rgb(255, 221, 227);
+    font-weight: 1000;
+    
+}
+
+
+.donation-input{
+    margin: 50px 0 40px 0;
+    
+   
+}
+.donation-input input{
+    width: 60%;
+    border: none;
+    border-bottom: 1px solid rgb(159, 159, 159); 
+    text-align: center;
+    padding: 10px 0;
+    font-size: 20px;
+
+}
+
+/* Section 1 Begins from here */
+.section-plan{
+    text-align: center;
+    margin: 40px 0;
+    padding-top: 60px;
+    padding-bottom: 45px;
+}
+.plans{
+    display: flex;
+    text-align: left;
+    width: 80%;
+    margin: 0 auto;
+    
+    
+
+}
+.plans p{
+    font-size: 20px;
+    color: rgb(97, 97, 97)
+}
+
+#food{
+    background-color: rgb(255, 234, 251);
+    padding: 20px;
+
+}
+#shelter{
+    background-color: rgb(232, 255, 247);
+    padding: 20px;
+    margin: 0 20px;
+}
+#education{
+    background-color: rgb(255, 246, 235);
+    padding: 40px 20px;
+}
+
+/* Section 4 Begins from here */
+.section-subscribe{
+    text-align: center;
+    margin: 40px 0;
+  
+}
+.subscribe{
+    width: 60%;
+    margin: 0 auto;
+   
+
+}
+.subscribe-paragraph{
+    font-size: 20px;
+    color: rgb(97, 97, 97)
+}
+.subscribe form{
+    background-color: #fff9ea;
+    padding: 40px ;
+    border-radius: 5px;
+
+
+}
+.subscribe input{
+    border: none;
+    background-color: rgb(234, 234, 234);
+    padding: 20px 0 20px 10px;
+    border-radius: 5px;
+    width: 40%;
+    font-size: 15px;
+
+}
+.subscribe-button{
+    color: rgb(245, 245, 245);
+    text-decoration: none;
+    background-image: linear-gradient(45deg, rgb(227, 86, 47), rgb(240, 125, 68));
+    font-weight: 600;
+    font-size: 18px;
+    padding: 15px;
+    border-radius: 5px;
+    text-align: center;
+}
+
+/* Footer */
+.footer{
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 15px 0;
+
+}
+
+
+
+#footer-header{
+    color: orange;
+    font-family: Brush Script MT;
+    font-size: 40px;
+}
